@@ -1,0 +1,9 @@
+section{
+    background-color: black;
+}
+*{
+    color: bisque;
+}
+.form-control{
+    margin-bottom: 15px;
+}
